@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-- 🎓 B.Tech CSE (AI/ML) — SRM AP University, Andhra Pradesh (CGPA: 7.63)
+- 🎓 B.Tech CSE (AI/ML) — SRM AP University, Andhra Pradesh 
 - 💼 Full Stack & AI Developer — SRM AP University (2024–Present)
 - 🧩 Ex-Salesforce Developer Intern — SmartBridge (AICTE Agentblazer Champion Program)
 - 📈 Skilled in querying, validating, and correlating large datasets to surface root causes and trends
