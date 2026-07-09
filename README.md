@@ -97,12 +97,12 @@ Full-stack platform for 3 user roles with role-based access across 8 API endpoin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashutosh-k-das&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=aashutosh-k-das&show_icons=true&theme=radical" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=aashutosh-k-das&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashutosh-k-das&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aashutosh-k-das&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
